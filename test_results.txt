@@ -1,0 +1,9 @@
+============================= test session starts ==============================
+platform linux -- Python 3.12.3, pytest-7.4.4, pluggy-1.4.0
+rootdir: /home/alvin-mwangi/Documents/course-7-module-6-pip-pypi-scripting-lab
+configfile: pytest.ini
+collected 5 items
+
+testing/test_generate_log.py .....                                       [100%]
+
+============================== 5 passed in 0.05s ===============================
