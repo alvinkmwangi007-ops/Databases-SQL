@@ -7,4 +7,9 @@ verify_ssl = true
 pytest = "*"
 
 [requires]
-python_version = "3.10"
+python_version = "3.12"
+
+[packages]
+pandas = "*"
+requests = "*"
+pytest = "*"
